@@ -1,0 +1,25 @@
+@media(max-width:1212px){
+ 
+}
+@media(max-width:1018px){
+ .serial{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+ }   
+}
+@media(max-width:588px){
+    .icon_play{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+      
+    }
+    .bas_p{
+        width: 100%;
+    }
+    .basic_info{
+        margin-right: 0;
+    }
+}
